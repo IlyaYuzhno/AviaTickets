@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Tickets
+
+  Created by Ilya Doroshkevitch on 27.01.2021.
+  
+*/
+
+
+
+"CFBundleDisplayName" = "Biglietti Aerei";
+"CFBundleName" = "Biglietti Aerei";
+

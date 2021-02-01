@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  Tickets
+
+  Created by Ilya Doroshkevitch on 26.01.2021.
+  
+*/
+
+
+
+//"Поиск" = "Search";
+//"Найти" = "Search";
+//"Куда" = "To";
+//"Откуда" = "From";
+//
+//
+//// TabBarController
+//
+//"Поиск" = "search_tab";
+//"Избранное" = "favorites_tab";
+//
+//
+//
+//// MainViewController
+//
+//"Откуда" = "main_from";
+//"Куда" = "main_to";
+//"Найти" = "main_search";
+
+
+// TabBarController
+
+"search_tab" = "Search";
+"map_tab" = "Prices Map";
+"favorites_tab" = "Favorites";
+
+
+// MainViewController
+
+"main_from" = "From";
+"main_to" = "To";
+"main_search" = "Search";
+"search_button" = "Find";
+
+
+// FirstViewController
+
+"about_app_header" = "ABOUT";
+"tickets_header" = "TICKETS";
+"map_price_header" = "PRICES MAP:";
+"favorites_header" = "FAVORITES";
+
+"about_app_describe" = "Cheap tickets search application";
+"tickets_describe" = "Get cheapest tickets";
+"map_price_describe" = "Use prices map";
+"favorites_describe" = "Save tickets to favorites";
+
+"next_button" = "NEXT";
+"done_button" = "DONE";
+
+
+// TicketsViewController
+
+"tickets_title" = "Tickets";
+"add_to_favorite" = "Add to favorites";
+"remove_from_favorite" = "Remove from favorites";
+"remind_me" = "Remind me";
+"ticket_reminder" = "Ticket reminder";
+"notification_will_be_sent" = "Notification will be sent";
+"success" = "Success";
+
+// Alerts
+
+"error" = "Sorry";
+"tickets_not_found" = "Tickets not found";
+"close" = "Close";
+"not_set_place_arrival_or_departure" = "Please define arrival or departure place";
+"actions_with_tickets" = "Action with tickets";
+"actions_with_tickets_describe" = "What to do with ticket?";
+"not_determine_current_city" = "Current city didn't determine!";

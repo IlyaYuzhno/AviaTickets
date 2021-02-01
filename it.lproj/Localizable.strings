@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Tickets
+
+  Created by Ilya Doroshkevitch on 26.01.2021.
+  
+*/
+
+
+//
+//"Поиск" = "Search";
+//"Найти" = "Search";
+//"Куда" = "To";
+//"Откуда" = "From";
+
+
+
+
+// TabBarController
+
+"search_tab" = "Ricerca";
+"map_tab" = "Mappa dei prezzi";
+"favorites_tab" = "Preferiti";
+
+
+// MainViewController
+
+"main_from" = "Da dove";
+"main_to" = "Dove";
+"main_search" = "Trovare";
+"search_button" = "Trovare";
+
+// FirstViewController
+
+"about_app_header" = "INFORMAZIONI SULL'APP";
+"tickets_header" = "BIGLIETTI AEREI";
+"map_price_header" = "Mappa dei prezzi";
+"favorites_header" = "Preferiti";
+
+"about_app_describe" = "Applicazione di ricerca dei voli";
+"tickets_describe" = "Trova i voli più economici";
+"map_price_describe" = "Visualizza la mappa dei prezzi";
+"favorites_describe" = "Salva i biglietti selezionati nei preferiti";
+
+"next_button" = "ULTERIORE";
+"done_button" = "PRONTO";
+
+
+// TicketsViewController
+
+"tickets_title" = "Biglietti";
+"add_to_favorite" = "Aggiungi ai preferiti";
+"remove_from_favorite" = "Rimuovi dai preferit";
+"remind_me" = "Ricordare";
+"ticket_reminder" = "Promemoria del biglietto";
+"notification_will_be_sent" = "La notifica verrà inviata";
+"success" = "Con successo";
+
+// Alerts
+
+"error" = "Scuzi";
+"tickets_not_found" = "Nessun biglietto trovato per questa direzione";
+"close" = "Vicino";
+"not_set_place_arrival_or_departure" = "
+È necessario indicare il luogo di partenza e il luogo di arrivo";
+"actions_with_tickets" = "Azioni sui biglietti";
+"actions_with_tickets_describe" = "Cosa si dovrebbe fare con il biglietto selezionato?";
+"not_determine_current_city" = "Impossibile determinare la città attuale!";
